@@ -19,8 +19,7 @@ My work focuses on the entire lifecycle of an AI product, from core model develo
 *   **GenAI Orchestration:** LangChain, LlamaIndex
 *   **LLM Inference & Serving:** vLLM, Hugging Face Transformers
 *   **Vector Search:** Faiss, Pinecone, ChromaDB, Weaviate
-*   **Backend:** Python (FastAPI, Django), Node.js
-*   **Frontend:** React, Next.js, Svelte
+*   **Backend:** Python (FastAPI, Django, Flask)
 *   **Databases:** PostgreSQL, MongoDB, Redis
 
 ---
