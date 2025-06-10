@@ -25,7 +25,7 @@ My work focuses on the entire lifecycle of an AI product, from core model develo
 
 ---
 
-- 🖥️  See my portfolio at [Github Pages](http://mohitkumar.github.io/portfolio/)
+- 🖥️  See my portfolio at [Github Pages](http://mohitkumar.github.io)
 - ✉️  You can contact me at [mohit.iit16@gmail.com](mailto:akshay@cadnative.com)
 
 
