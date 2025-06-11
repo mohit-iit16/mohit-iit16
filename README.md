@@ -24,7 +24,7 @@ My work focuses on the entire lifecycle of an AI product, from core model develo
 
 ---
 
-- 🖥️  See my portfolio at [Github Pages](http://mohitkumar.github.io)
+- 🖥️  See my portfolio at [Github Pages](http://mohit-iit16.github.io)
 - ✉️  You can contact me at [mohit.iit16@gmail.com](mailto:mohit.iit16@gmail.com)
 
 
